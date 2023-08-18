@@ -1,0 +1,15 @@
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.csproj.AssemblyReference.cache
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.AssemblyInfoInputs.cache
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.AssemblyInfo.cs
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.csproj.CoreCompileInputs.cache
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\bin\Debug\net7.0\ValidadarCpf.exe
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\bin\Debug\net7.0\ValidadarCpf.deps.json
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\bin\Debug\net7.0\ValidadarCpf.runtimeconfig.json
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\bin\Debug\net7.0\ValidadarCpf.dll
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\bin\Debug\net7.0\ValidadarCpf.pdb
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.dll
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\refint\ValidadarCpf.dll
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.pdb
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ValidadarCpf.genruntimeconfig.cache
+C:\Users\2021202060034\source\repos\ValidadarCpf\ValidadarCpf\obj\Debug\net7.0\ref\ValidadarCpf.dll
